@@ -6,3 +6,4 @@ fn main(){
             .spawn()
             .expect("echo command faild");
 }
+
